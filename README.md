@@ -4,19 +4,15 @@
   <img src="https://raw.githubusercontent.com/iagosde/data_science/main/Banner%20Data%20Science%20GitHub.png?token=GHSAT0AAAAAAB3VLUD6YYC2HYFJHLUB7DPIY4CLRRA" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Iago Duque Estrada
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Carreira desenvolvida atuando no segmento de serviços, com vivência profissional pelo poder judiciário do ES, pela mineradora Vale e pela fintech Will Bank. Tenho perfil comunicativo, com boa capacidade analítica e apreço por atividades ligadas a relacionamento e negociações. Em minha história, desenvolvi importantes valores e competências que acredito serem úteis para este meu processo de transição, como a organização, disciplina, relacionamento interpessoal e senso colaborativo. 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/iago-soares-duque-estrada-1b994b92/?originalSubdomain=br)
+* [Medium](https://medium.com/@iagosde93)
 
 
 ## Projetos:
