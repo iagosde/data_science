@@ -20,7 +20,7 @@ Acredito que minha maior vantagem é ser, prioritariamente, um homem de negócio
 ## Projetos:
 
 
-* **Análise dos Dados do Airbnb: Asheville - Carolina do Norte:** https://bit.ly/airbnb_asheville
+* **Análise dos Dados do Airbnb:** https://bit.ly/airbnb_asheville
 
 
 ---
