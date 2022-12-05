@@ -6,7 +6,9 @@
 
 # Iago Duque Estrada
 
-Carreira desenvolvida atuando no segmento de serviços, com vivência profissional pelo poder judiciário do ES, pela mineradora Vale e pela fintech Will Bank. Tenho perfil comunicativo, com boa capacidade analítica e apreço por atividades ligadas a relacionamento, negociações e dados.
+Carreira desenvolvida atuando no segmento de serviços, com vivência profissional pelo poder judiciário do ES, pela mineradora Vale e pela fintech Will Bank. Tenho perfil comunicativo, com boa capacidade analítica e apreço por atividades ligadas a relacionamento, negociações e dados. Em minha formação em Administração e em minha história, desenvolvi importantes valores e competências que acredito serem úteis como a organização, disciplina, relacionamento interpessoal e senso colaborativo. 
+
+Acredito que minha maior vantagem é ser, prioritariamente, um homem de negócios. Isso me permite ver o quadro geral com uma visão sistêmica que, amparada pela minha bagagem técnica, me permite gerar resultados na vida real.
 
 
 
